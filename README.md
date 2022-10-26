@@ -37,7 +37,7 @@ The use cases were created to illustrate the activities that are performed by th
 ![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0009.jpg)
 ![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0010.jpg)
 ![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0011.jpg)
-![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0012.jpg
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0012.jpg)
 ![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0013.jpg)
 ![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0014.jpg)
 ![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0015.jpg)
