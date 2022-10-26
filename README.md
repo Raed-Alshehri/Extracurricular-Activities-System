@@ -11,13 +11,13 @@
 Upon starting the project, The Waterfall methodology was the most suitable methodology for this project.
 - The work plan and the work breakdown structure (WBS) were created: 
 
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/WBS.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/WBS.jpg)
 
 - Gantt Chart was also created for planning and scheduling the project:
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/Gantt.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/Gantt.jpg)
 
 - Then, a feasibility analysis was conducted to determine whether to proceed with the project
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/Feasability.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/Feasability.jpg)
 
 ### The requirements of the system were investigated and found to be:
 
@@ -33,23 +33,23 @@ Upon starting the project, The Waterfall methodology was the most suitable metho
 
 ## Use Case Analysis
 The use cases were created to illustrate the activities that are performed by the users of the system.
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0008.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0009.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0010.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0011.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0012.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0013.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0014.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0015.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0016.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0017.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0008.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0009.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0010.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0011.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0012.jpg
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0013.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0014.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0015.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0016.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0017.jpg)
 
 
 
 ## Data Flow Diagram
 Data flow diagrams exhibit the business processes and the data that passes among each process. 
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0018.jpg)
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0019.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0018.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0019.jpg)
 
 
 
@@ -58,7 +58,7 @@ Data flow diagrams exhibit the business processes and the data that passes among
 
 Before creating a prototype for the system interface, an Interface Structure Diagram (ISD) was created.
 The ISD shows all the screens, forms, and reports in the system, how they are related, and how the user moves from one to another. 
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/MIS301%20-%20Final%20Report_page-0020.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/MIS301%20-%20Final%20Report_page-0020.jpg)
 
 A prototype of the website that will use the shared database was created using Wix:
 check it out [here](https://alshehriraeda.wixsite.com/extracurricular)
@@ -72,15 +72,15 @@ check it out [here](https://alshehriraeda.wixsite.com/extracurricular)
 
 - After identifying the entities, the attributes, and the relationships between them, the database design started with the Entity Relationship Diagram (ERD)
 
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/ERD.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/ERD.jpg)
 
 - To enhance the design, an Extended ERD was also created (EERD):
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/EERD.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/EERD.jpg)
 
 - After that, to ensure that there will be no redundant data, a database normailization was performed and a Functional Dependency Diagram is drawn below: 
-![App Screenshot](https://raw.githubusercontent.com/Raed-Alshehri/ProjectsPortfolio/main/Extracurricular%20Activities%20System/Images/FDD.jpg)
+![App Screenshot](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Images/FDD.jpg)
  
-- Finally, the database was Implemented using SQL for easier querying and manipulation [here](https://github.com/Raed-Alshehri/ProjectsPortfolio/blob/main/Extracurricular%20Activities%20System/Extracurricular%20Activities%20Database.sql)
+- Finally, the database was Implemented using SQL for easier querying and manipulation [here](https://github.com/Raed-Alshehri/Extracurricular-Activities-System/blob/main/Extracurricular%20Activities%20Database.sql)
 
 ## 🛠 Skills Used
 Systems Analysis and Development, Project Management
